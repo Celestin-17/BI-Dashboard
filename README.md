@@ -16,6 +16,3 @@ This project showcases an interactive BI Dashboard that offers a comprehensive v
 
 # Screenshots
 
-<img src="screenshots/bi01.png" width=750 height=555>
-<img src="screenshots/bi02.png" width=750 height=555>
-<img src="screenshots/bi03.png" width=750 height=555>
